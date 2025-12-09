@@ -6,7 +6,7 @@ Graduated in Computer Science in 2024.
 
 Software Developer with focus on Web Development using Java, Spring, Typescript, Angular.
 
-Right now I am looking for learning the and modern tools in order to expand my technical knowledge.
+Right now I am looking for learning new and modern tools in order to expand my technical knowledge.
 
 I Will update this with a better format and more information as the rest of the profile gets more interesting.
 
